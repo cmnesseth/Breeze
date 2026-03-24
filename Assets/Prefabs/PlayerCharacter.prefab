@@ -2936,7 +2936,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MoveSpeed: 2.75
-  SprintSpeed: 6
+  SprintSpeed: 7
   RotationSmoothTime: 0.12
   SpeedChangeRate: 10
   LandingAudioClip: {fileID: 8300000, guid: ff697d3070687ce4583faa0561a145a2, type: 3}
@@ -2952,7 +2952,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 274649b0e221539409070ebf6c18918b, type: 3}
   - {fileID: 8300000, guid: a3194b8bbc96ef84fab1f98f4b7dae3e, type: 3}
   FootstepAudioVolume: 0.2
-  JumpHeight: 1.2
+  JumpHeight: 1.5
   Gravity: -9.81
   JumpTimeout: 0.3
   FallTimeout: 0.15
@@ -2963,8 +2963,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   CinemachineCameraTarget: {fileID: 5106569338157781749}
-  TopClamp: 70
-  BottomClamp: -30
+  TopClamp: 85
+  BottomClamp: -60
   CameraAngleOverride: 0
   LockCameraPosition: 0
 --- !u!114 &288059400271539772
