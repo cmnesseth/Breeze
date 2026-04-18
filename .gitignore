@@ -99,3 +99,5 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 .DS_Store
 Assets/Scenes/Forest Scene/LightingData.asset
+Assets/Models/Temp/Player Character posed.fbx
+Assets/Models/Temp/Player Character posed.fbx.meta
